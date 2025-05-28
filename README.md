@@ -17,7 +17,7 @@ Data Wrangling: Cleaning, transforming, and preparing messy datasets for analysi
 
 💼 What Sets Me Apart
 
-My 10 years in operations, marketing, and business development have taught me to ask the right questions and understand what businesses actually need from their data. I don't just build models—I build solutions that drive decisions and create value.
+My 10 years in operations, marketing, sales and business development have taught me to ask the right questions and understand what businesses actually need from their data. I don't just build models—I build solutions that drive decisions and create value.
 
 🚀 What You'll Find Here
 
