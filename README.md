@@ -9,10 +9,15 @@ I specialize in extracting meaningful patterns from complex datasets and buildin
 🛠️ Technical Skills
 
 Programming: Python (pandas, numpy, scikit-learn, matplotlib, seaborn)
+
 Databases: SQL for data extraction and manipulation
+
 Machine Learning: Supervised/unsupervised learning, model evaluation, feature engineering
+
 Data Analysis: Statistical analysis, hypothesis testing, A/B testing
+
 Data Visualization: Creating compelling stories with data through charts and dashboards
+
 Data Wrangling: Cleaning, transforming, and preparing messy datasets for analysis
 
 💼 What Sets Me Apart
