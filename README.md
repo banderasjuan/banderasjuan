@@ -1,6 +1,6 @@
 ## Hi there!👋 I'm Juan 👨🏼‍💻
 
-Recently graduated Data Scientist with a passion for turning data into actionable business insights.
+Data Scientist with a passion for turning data into actionable business insights.
 
 🔍 What I Do
 
